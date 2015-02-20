@@ -5,7 +5,7 @@
 .jumbotron {
   background-color: #1A13FF;
   font-color: #C5E6E8;
-  border-bottom: 1px solid color: #1A13FF;
+  margin-bottom: 1px solid color: #1A13FF;
 }
 
 .jumbotron .container {
