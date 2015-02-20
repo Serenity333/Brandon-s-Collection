@@ -6,6 +6,10 @@
   background-color: #1A13FF;
 }
 
+.jumbotron .container {
+  margin: auto;
+}
+
 .jumbotron h1{
   height: 100px;
   background-color: #1A13FF;
