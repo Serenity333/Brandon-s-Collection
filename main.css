@@ -1,12 +1,23 @@
 .nav li {
   display: inline;
-  
-.jumbotron .container{
+}
+
+.jumbotron {
+  background-color: 1A13FF;
+}
+
+.jumbotron .container {
+  background-color: #1A13FF;
+}
+
+.jumbotron h1{
   height: 300px;
   background-color: #1A13FF;
   font-size: 50px;
   font-color: #C0C0C0;
   font-family: 'Lobster', cursive;
-  
+}
+
 .categories {
+}
   
