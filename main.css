@@ -3,11 +3,6 @@
 }
 
 .jumbotron {
-  background-color: 1A13FF;
-  border: 3px solid #CC0000;
-}
-
-.jumbotron .container {
   background-color: #1A13FF;
 }
 
@@ -17,15 +12,6 @@
   font-size: 75px;
   font-color: #B7D1FF;
   font-family: 'Lobster', cursive;
-}
-
-.jumbotron h2 {
-  height: 100px;
-  background-color: #1A13FF;
-  font-size:75px;
-  font-color: #B7D1FF;
-  font-family: 'Lobster', cursive;
-}
 }
 
 .categories {
