@@ -12,11 +12,20 @@
 }
 
 .jumbotron h1{
-  height: 300px;
+  height: 100px;
   background-color: #1A13FF;
-  font-size: 150px;
+  font-size: 75px;
   font-color: #B7D1FF;
   font-family: 'Lobster', cursive;
+}
+
+.jumbotron h2 {
+  height: 100px;
+  background-color: #1A13FF;
+  font-size:75px;
+  font-color: #B7D1FF;
+  font-family: 'Lobster', cursive;
+}
 }
 
 .categories {
