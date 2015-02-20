@@ -4,6 +4,7 @@
 
 .jumbotron {
   background-color: #1A13FF;
+  font-color: #C5E6E8;
 }
 
 .jumbotron .container {
@@ -12,7 +13,6 @@
 
 .jumbotron h1{
   height: 100px;
-  background-color: #526CFF;
   font-size: 150px;
   font-color: #C5E6E8;
   font-family: 'Lobster', cursive;
