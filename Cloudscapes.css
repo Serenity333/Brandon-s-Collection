@@ -4,7 +4,8 @@
 }
 
 .jumbotron .container {
-  margin: auto;
+  background-image:"sunrise.jpg";
+  margin: center;
   padding-bottom:70px;
 }
 
