@@ -1,0 +1,14 @@
+.jumbotron {
+  background-color: #1A13FF;
+  margin-bottom: 0px;
+}
+
+.jumbotron .container {
+  margin: auto;
+}
+
+.jumbotron h1{
+  height: 100px;
+  font-size: 150px;
+  font-family: 'Dancing Script', cursive;
+}
