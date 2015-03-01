@@ -5,6 +5,7 @@
 
 .jumbotron .container {
   margin: auto;
+  padding-bottom:50px;
 }
 
 .jumbotron h1{
