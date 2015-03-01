@@ -10,7 +10,7 @@
 .jumbotron h1{
   height: 100px;
   font-size: 150px;
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Henny Penny', cursive;
 }
 
 .section1 {
@@ -18,5 +18,10 @@
 }
 
 .section1 p {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Berkshire Swash', cursive;
+}
+
+.section1 .thumbnail p {
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 14px;
 }
