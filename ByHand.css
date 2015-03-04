@@ -19,6 +19,10 @@
    padding-right:10px;
 }
 
+.section1 .thumbnail {
+  back-ground-color:#000000;
+}
+
 .section1 p {
   font-family: 'Roboto Condensed', sans-serif;
 }
