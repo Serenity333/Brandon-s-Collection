@@ -17,6 +17,10 @@
    padding-top: 30px;
 }
 
+.section .thumbnail{
+  background-color:#000000;
+}
+
 .section1 p {
   font-family: 'Lobster Two', cursive;
   font-size:14px;
