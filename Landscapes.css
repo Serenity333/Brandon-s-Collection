@@ -28,3 +28,51 @@
   font-size:17px;
   margin-left:60px;
 }
+
+.section2 {
+   padding-top: 30px;
+   padding-left:10px;
+   padding-right:10px;
+}
+
+.section2 .thumbnail{
+  background-color:#000000;
+}
+
+.section2 p {
+  font-family: 'Lobster Two', cursive;
+  font-size:17px;
+  margin-left:60px;
+}
+
+.section3 {
+   padding-top: 30px;
+   padding-left:10px;
+   padding-right:10px;
+}
+
+.section3 .thumbnail{
+  background-color:#000000;
+}
+
+.section3 p {
+  font-family: 'Lobster Two', cursive;
+  font-size:17px;
+  margin-left:60px;
+}
+
+.section4 {
+   padding-top: 30px;
+   padding-left:10px;
+   padding-right:10px;
+}
+
+.section4 .thumbnail{
+  background-color:#000000;
+}
+
+.section4 p {
+  font-family: 'Lobster Two', cursive;
+  font-size:17px;
+  margin-left:60px;
+}
