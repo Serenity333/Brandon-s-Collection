@@ -16,12 +16,18 @@
 
 .section1 {
    padding-top: 30px;
+   padding-left:10px;
+   padding-right:10px;
 }
 
 .section1 p {
   font-family: 'Rancho', cursive;
   font-size: 20px
   font-weight:normal;
+}
+
+.section1 .thumbnail {
+  background-color:#000000;
 }
 
 .section1 .thumbnail p {
@@ -32,6 +38,12 @@
 
 .section2 {
    padding-top: 30px;
+   padding-left:10px;
+   padding-right:10px;
+}
+
+.section2 .thumbnail {
+  background-color:#000000;
 }
 
 .section2 p {
@@ -48,6 +60,12 @@
 
 .section3 {
    padding-top: 30px;
+   padding-left:10px;
+   padding-right:10px;
+}
+
+.section3 .thumbnail {
+  background-color:#000000;
 }
 
 .section3 p {
@@ -64,6 +82,12 @@
 
 .section4 {
    padding-top: 30px;
+   padding-left:10px;
+   padding-right:10px;
+}
+
+.section4 .thumbnail {
+  background-color:#000000;
 }
 
 .section4 p {
