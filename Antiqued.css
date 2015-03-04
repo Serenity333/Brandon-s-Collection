@@ -15,10 +15,16 @@
 
 .section1 {
    padding-top: 30px;
+   padding-left:10px;
+   padding-right:10px;
 }
 
 .section1 p {
   font-family: 'Roboto Condensed', sans-serif;
+}
+
+.section1 .thumbnail {
+  background-color:#000000;
 }
 
 .section1 .thumbnail p {
@@ -26,3 +32,64 @@
   font-weight:normal;
   font-size:14px;
 }
+
+.section2 {
+   padding-top: 30px;
+   padding-left:10px;
+   padding-right:10px;
+}
+
+.section2 p {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.section2 .thumbnail {
+  background-color:#000000;
+}
+
+.section2 .thumbnail p {
+  font-family: 'Lato', sans-serif;
+  font-weight:normal;
+  font-size:14px;
+}
+
+.section3 {
+   padding-top: 30px;
+   padding-left:10px;
+   padding-right:10px;
+}
+
+.section3 p {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.section3 .thumbnail {
+  background-color:#000000;
+}
+
+.section3 .thumbnail p {
+  font-family: 'Lato', sans-serif;
+  font-weight:normal;
+  font-size:14px;
+}
+
+.section4 {
+   padding-top: 30px;
+   padding-left:10px;
+   padding-right:10px;
+}
+
+.section4 p {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.section4 .thumbnail {
+  background-color:#000000;
+}
+
+.section4 .thumbnail p {
+  font-family: 'Lato', sans-serif;
+  font-weight:normal;
+  font-size:14px;
+}
+
