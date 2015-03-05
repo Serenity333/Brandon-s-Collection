@@ -10,7 +10,7 @@
 .jumbotron h1{
   height: 100px;
   font-size: 150px;
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Great Vibes', cursive;
 }
 
 .section1 {
@@ -20,7 +20,7 @@
 }
 
 .section1 p {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Marcellus SC', serif;
 }
 
 .section1 .thumbnail {
@@ -28,7 +28,7 @@
 }
 
 .section1 .thumbnail p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Marcellus SC', serif;
   font-weight:normal;
 }
 
@@ -39,7 +39,7 @@
 }
 
 .section2 p {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Marcellus SC', serif;
 }
 
 .section2 .thumbnail {
@@ -47,7 +47,7 @@
 }
 
 .section2 .thumbnail p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Marcellus SC', serif;
   font-weight:normal;
 }
 
@@ -57,7 +57,7 @@
 }
 
 .section3 p {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Marcellus SC', serif;
 }
 
 .section3 .thumbnail {
@@ -76,7 +76,7 @@
 }
 
 .section4 p {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Marcellus SC', serif;
 }
 
 .section4 .thumbnail {
@@ -84,6 +84,6 @@
 }
 
 .section4 .thumbnail p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Marcellus SC', serif;
   font-weight:normal;
 }
