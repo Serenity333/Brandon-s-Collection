@@ -10,7 +10,9 @@
 .jumbotron h1{
   height: 100px;
   font-size: 150px;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Cinzel Decorative', cursive;
+  font-weight: bold;
+  padding-bottom:15px;
 }
 
 .section1 {
@@ -24,13 +26,11 @@
 }
 
 .section1 p {
-  font-family: 'Dancing Script', cursive;
-  font-weight: normail;
-  font-size: ;
+  font-family: 'Cinzel', serif;
+  font-weight: normal;
 }
 
 .section2 {
-   padding-top: 30px;
    padding-left:10px;
    padding-right:10px;
 }
@@ -40,13 +40,11 @@
 }
 
 .section2 p {
-  font-family: 'Dancing Script', cursive;
-  font-weight: normail;
-  font-size: ;
+  font-family: 'Cinzel', serif;
+  font-weight: normal;
 }
 
 .section3 {
-   padding-top: 30px;
    padding-left:10px;
    padding-right:10px;
 }
@@ -56,13 +54,13 @@
 }
 
 .section3 p {
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Cinzel', serif;
   font-weight: normail;
   font-size: ;
 }
 
 .section4 {
-   padding-top: 30px;
+   padding-bottom:15px;
    padding-left:10px;
    padding-right:10px;
 }
@@ -72,7 +70,6 @@
 }
 
 .section4 p {
-  font-family: 'Dancing Script', cursive;
-  font-weight: normail;
-  font-size: ;
+  font-family: 'Cinzel', serif;
+  font-weight: normal;
 }
