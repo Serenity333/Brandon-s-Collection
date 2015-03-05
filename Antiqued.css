@@ -54,7 +54,6 @@
 .section3 {
    padding-left:10px;
    padding-right:10px;
-   padding-bottom:10px;
 }
 
 .section3 p {
@@ -70,4 +69,21 @@
   font-weight:normal;
 }
 
+.section4 {
+   padding-left:10px;
+   padding-right:10px;
+   padding-bottom:15px;
+}
 
+.section4 p {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.section4 .thumbnail {
+  background-color:#000000;
+}
+
+.section4 .thumbnail p {
+  font-family: 'Lato', sans-serif;
+  font-weight:normal;
+}
