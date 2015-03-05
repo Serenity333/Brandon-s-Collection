@@ -10,7 +10,8 @@
 .jumbotron h1{
   height: 100px;
   font-size: 150px;
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Cookie', cursive;
+  padding-bottom: 20px;
 }
 
 .section1 {
@@ -24,11 +25,10 @@
 }
 
 .section1 p {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Calligraffitti', cursive;
 }
 
 .section2 {
-   padding-top: 30px;
    padding-left:10px;
    padding-right:10px;
 }
@@ -38,17 +38,15 @@
 }
 
 .section2 p {
-  font-family: 'Pinyon Script', cursive;
+  font-family: 'Calligraffitti', cursive;
 }
 
 .section2 .thumbnail p {
-  font-family: 'Pinyon Script', cursive;
+  font-family: 'Calligraffitti', cursive;
   font-weight:normal;
-  font-size:14px;
 }
 
 .section3 {
-   padding-top: 30px;
    padding-left:10px;
    padding-right:10px;
 }
@@ -58,17 +56,16 @@
 }
 
 .section3 p {
-  font-family: 'Pinyon Script', cursive;
+  font-family: 'Calligraffitti', cursive;
 }
 
 .section3 .thumbnail p {
-  font-family: 'Pinyon Script', cursive;
+  font-family: 'Calligraffitti', cursive;
   font-weight:normal;
-  font-size:14px;
 }
 
 .section4 {
-   padding-top: 30px;
+   padding-bottom: 15px;
    padding-left:10px;
    padding-right:10px;
 }
@@ -78,11 +75,10 @@
 }
 
 .section4 p {
-  font-family: 'Pinyon Script', cursive;
+  font-family: 'Calligraffitti', cursive;
 }
 
 .section4 .thumbnail p {
-  font-family: 'Pinyon Script', cursive;
+  font-family: 'Calligraffitti', cursive;
   font-weight:normal;
-  font-size:14px;
 }
