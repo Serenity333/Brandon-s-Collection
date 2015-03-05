@@ -10,7 +10,8 @@
 .jumbotron h1{
   height: 100px;
   font-size: 150px;
-  font-family: 'Amatic SC', cursive;
+  font-family: 'Lobster Two', cursive;
+  font-weight:bold;
 }
 
 .section1 {
