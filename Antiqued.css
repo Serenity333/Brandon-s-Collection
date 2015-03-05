@@ -30,11 +30,10 @@
 .section1 .thumbnail p {
   font-family: 'Lato', sans-serif;
   font-weight:normal;
-  font-size:14px;
 }
 
 .section2 {
-   padding-top: 30px;
+   padding-top: 15px;
    padding-left:10px;
    padding-right:10px;
 }
@@ -50,11 +49,10 @@
 .section2 .thumbnail p {
   font-family: 'Lato', sans-serif;
   font-weight:normal;
-  font-size:14px;
 }
 
 .section3 {
-   padding-top: 30px;
+   padding-top: 15px;
    padding-left:10px;
    padding-right:10px;
 }
@@ -70,7 +68,6 @@
 .section3 .thumbnail p {
   font-family: 'Lato', sans-serif;
   font-weight:normal;
-  font-size:14px;
 }
 
 
