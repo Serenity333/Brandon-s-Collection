@@ -1,0 +1,73 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i or -o; assuming --only paths...
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+	new file:   images/JackN.jpg
+	new file:   images/Octopi.jpg
+	new file:   images/Perfect_Falls_by_PinholeSociety.jpg
+	new file:   images/Rose.jpg
+	new file:   images/Sunflowers.jpg
+	new file:   images/Sunset3.jpg
+	new file:   images/Waterfront2.jpg
+	new file:   images/asiandesign.jpg
+	new file:   images/autumn woods.jpg
+	new file:   images/beach.jpg
+	new file:   images/bee.jpg
+	new file:   images/blueglow.jpg
+	new file:   images/blues.jpg
+	new file:   images/blues2.jpg
+	new file:   images/blues3.jpg
+	new file:   images/cathedral.jpg
+	new file:   images/clouds.jpg
+	new file:   images/clouds3.jpg
+	new file:   images/clouds4.jpg
+	new file:   images/cosmic.jpg
+	new file:   images/cotton.jpg
+	new file:   images/distinct.jpg
+	new file:   images/engraved.jpg
+	new file:   images/eyes.jpg
+	new file:   images/fingertips.jpg
+	new file:   images/fireworks.jpg
+	new file:   images/flakes.jpg
+	new file:   images/generalstore.jpg
+	new file:   images/honeycombed.jpg
+	new file:   images/kayak.jpg
+	new file:   images/leaf.jpg
+	new file:   images/male form.jpg
+	new file:   images/moreimages.zip
+#	new file:   images/mouths.jpg
+#	new file:   images/multi.jpg
+#	new file:   images/oldfilm.jpg
+#	new file:   images/overhead.jpg
+#	new file:   images/overview.jpg
+#	new file:   images/perfect tree.jpg
+#	new file:   images/rainbow.jpg
+#	new file:   images/rainbow2.jpg
+#	new file:   images/reds1.jpg
+#	new file:   images/ripples.jpg
+#	new file:   images/shadowed.jpg
+#	new file:   images/sharkbait.jpg
+#	new file:   images/skeleton.jpg
+#	new file:   images/snowshark.jpg
+#	new file:   images/specks.jpg
+#	new file:   images/squee.jpg
+#	new file:   images/stars.jpg
+#	new file:   images/sun peaking.jpg
+#	new file:   images/sunburst.jpg
+#	new file:   images/sunrise.jpg
+#	new file:   images/sunrise2.jpg
+#	new file:   images/sunset.jpg
+#	new file:   images/sunset2.jpg
+#	new file:   images/sunset5.jpg
+#	new file:   images/swirl.jpg
+#	new file:   images/trees.jpg
+#	new file:   images/walkhome.jpg
+#	new file:   images/waterfront.jpg
+#	new file:   images/womans form.jpg
+#	new file:   images/woods view.jpg
+#
+
