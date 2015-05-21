@@ -12,22 +12,19 @@
   background-color: #1A13FF;
   margin-bottom: 0px;
   height: 200px;
-  position: fixed;
-  z-index: 0;
+  
 }
 
 .jumbotron #ctwo {
   margin: auto;
-  position: fixed;
-  z-index: 1;
+  
 }
 
 .jumbotron h1{
   font-size: 150px;
   font-family: 'Dancing Script', cursive;
   height: 150px;
-  position: fixed;
-  z-index: 2;
+  
 }
 
 #menu {
