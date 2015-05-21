@@ -4,13 +4,17 @@
   margin-right: 15px;
 }
 
+.#cone {
+  
+}
+
 .jumbotron {
   background-color: #1A13FF;
   margin-bottom: 0px;
   height: 150px;
 }
 
-.jumbotron .container {
+.jumbotron #ctwo {
   margin: auto;
 }
 
@@ -21,13 +25,7 @@
   
 }
 
-.container {
-  position: absolute;
-  left: 10px;
-  
-}
-  
-.container h3 {
+#cthree h3 {
   font-weight: bold;
   
 }
