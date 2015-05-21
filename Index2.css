@@ -21,7 +21,7 @@
 .jumbotron h1{
   font-size: 150px;
   font-family: 'Dancing Script', cursive;
-  padding-bottom: 20px;
+  padding-bottom: 30px;
 }
 
 #cthree h3 {
@@ -31,4 +31,7 @@
 .row {
   background-color: #E82DCA;
   width: 300px;
+  float: left;
+  margin-left: 0px;
+  
 }
