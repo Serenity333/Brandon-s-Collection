@@ -24,18 +24,17 @@
   padding-bottom: 30px;
 }
 
-#grimms {
-  height: 40px;
-  width: 40px;
-  text-align: center;
-  
-  
-}
-
 #menu {
   position: fixed;
   left: 0px;
   display: block;
   height: 100px;
   width: 60px;
+}
+
+#menu h3 {
+  font-family: ;
+  font-weight: bold;
+  text-align: center;
+  display: block;
 }
