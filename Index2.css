@@ -22,7 +22,8 @@
 }
 
 .container {
-  float: left;
+  position: absolute;
+  left: 10px;
   
 }
   
@@ -32,5 +33,6 @@
 }
 
 .row {
-  background-color: #BBC1FF;
+  background-color: red;
+  
 }
