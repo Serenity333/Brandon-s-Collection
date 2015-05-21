@@ -38,3 +38,8 @@
   text-align: center;
   display: block;
 }
+
+#cfour {
+  background-image: images/cosmic.jpg;
+  opacity: 0.6;
+}
