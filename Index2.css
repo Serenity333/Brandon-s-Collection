@@ -28,18 +28,17 @@
   position: fixed;
   left: 0px;
   display: block;
-  height: 100px;
-  width: 60px;
+  background-image: 'images/cosmic.jpg';
+  opacity: 0.6;
 }
 
 #menu h3 {
-  font-family: ;
+  font-family: 'Marck Script', cursive;
   font-weight: bold;
   text-align: center;
   display: block;
 }
 
 #cfour {
-  background-image: images/cosmic.jpg;
-  opacity: 0.6;
+  background-color: #00008B;
 }
