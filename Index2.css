@@ -10,14 +10,15 @@
   height: 150px;
 }
 
-
+.jumbotron .container {
+  margin: auto;
+}
 
 .jumbotron h1{
   height: 95px;
   font-size: 150px;
   font-family: 'Dancing Script', cursive;
-  position: absolute;
-  top: 10px;
+  
 }
 
 .container {
