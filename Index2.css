@@ -36,4 +36,6 @@
   position: fixed;
   left: 0px;
   display: block;
+  height: 100px;
+  width: 60px;
 }
