@@ -29,4 +29,10 @@
   width: 40px;
   text-align: center;
   
+  
+}
+
+#menu {
+  position: fixed;
+  left: 0px;
 }
