@@ -11,10 +11,19 @@
 }
 
 .container {
-  background-image: url(../img/autumn woods.jpg);
+  background-image: url(../img/autumnwoods.jpg);
   opacity: 0.6;
 }
 
 #mess {
   height: 108px;
+}
+
+h2 {
+  font-family: 'Lobster Two', cursive;
+  
+}
+
+h3 {
+  font-family: 'Lobster Two', cursive;
 }
