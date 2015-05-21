@@ -28,7 +28,7 @@
   position: fixed;
   left: 0px;
   display: block;
-  background-image: 'images/cosmic.jpg';
+  background-image: "images/cosmic.jpg";
   opacity: 0.6;
 }
 
@@ -42,4 +42,5 @@
 
 #cfour {
   background-color: #00008B;
+  width: 980px;
 }
