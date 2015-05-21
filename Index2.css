@@ -19,19 +19,15 @@
 }
 
 .jumbotron h1{
-  height: 95px;
   font-size: 150px;
   font-family: 'Dancing Script', cursive;
-  
 }
 
 #cthree h3 {
   font-weight: bold;
-  
 }
 
 .row {
   background-color: #E82DCA;
   width: 300px;
-  
 }
