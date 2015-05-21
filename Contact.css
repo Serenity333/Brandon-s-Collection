@@ -9,3 +9,8 @@
   color: #fff;
   background-color: #4B0082;
 }
+
+.container {
+  background-image: url("images_autumn woods.jpg");
+  opacity: 0.6;
+}
