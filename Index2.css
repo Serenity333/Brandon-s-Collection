@@ -30,6 +30,7 @@
   display: block;
   background-image: "images/cosmic.jpg";
   opacity: 0.6;
+  border: 5px solid black;
 }
 
 #menu h3 {
