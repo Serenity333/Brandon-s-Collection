@@ -28,7 +28,7 @@
   position: fixed;
   left: 0px;
   display: block;
-  background-image: "images/cosmic.jpg";
+  background-image: ("images/cosmic.jpg");
   opacity: 0.6;
   border: 5px solid black;
 }
@@ -36,7 +36,7 @@
 #menu h3 {
   font-family: 'Marck Script', cursive;
   font-weight: bold;
-  font-color: black;
+  color: black;
   text-align: center;
   display: block;
 }
