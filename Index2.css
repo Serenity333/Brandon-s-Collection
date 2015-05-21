@@ -35,4 +35,5 @@
 #menu {
   position: fixed;
   left: 0px;
+  display: block;
 }
