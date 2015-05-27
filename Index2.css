@@ -115,3 +115,7 @@ Close
  
 
 /* end of highslide css */
+ul {
+	display: inline;
+}
+}
